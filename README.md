@@ -77,7 +77,7 @@ Download links: [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | [Kali 
 
 **Screenshot:**
 
-![VirtualBox](images/step2-virtualbox.png)
+![VirtualBox](images/step2-virtualbox.jpeg)
 
 ### Step 3: Set up Kali Linux
 - Downloaded the Kali VM and extracted it with 7-Zip.

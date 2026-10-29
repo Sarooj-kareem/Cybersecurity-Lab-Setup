@@ -86,7 +86,7 @@ Download links: [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | [Kali 
 
 **Screenshot:**
 
-![Kali VM](wk1/kali-vm.png)
+![Kali VM](wk1/Kali-vm.png)
 
 ### Step 4: Create the virtual network
 - Created a NAT Network named `NATNetwork` with the range `10.0.0.0/24`.

@@ -77,7 +77,7 @@ Download links: [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | [Kali 
 
 **Screenshot:**
 
-![VirtualBox](images/step2-virtualbox.jpeg)
+![VirtualBox](wk1/step2-virtualbox.jpeg)
 
 ### Step 3: Set up Kali Linux
 - Downloaded the Kali VM and extracted it with 7-Zip.
@@ -86,7 +86,7 @@ Download links: [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | [Kali 
 
 **Screenshot:**
 
-![Kali VM](images/step3-kali-vm.png)
+![Kali VM](wk1/step3-kali-vm.png)
 
 ### Step 4: Create the virtual network
 - Created a NAT Network named `NATNetwork` with the range `10.0.0.0/24`.
@@ -95,13 +95,13 @@ Download links: [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | [Kali 
 
 **Screenshot:**
 
-![Network](images/step4-network.png)
+![Network](wk1/step4-network.png)
 
 ### Step 5: Set a static IP address in Kali
 - Gave Kali a fixed IP address: `10.0.0.2`.
 - Set the gateway to `10.0.0.1` and the DNS server to `8.8.8.8`.
 
-![Ip address](images/step4-ipaddress.png)
+![Ip address](wk1/step4-ipaddress.png)
 
 
 ### Step 6: Test the connection
@@ -118,9 +118,9 @@ ping -c 4 [8.8.8.8]
 
 nmap
 
-![Ip address-route-gateway](images/step7-iproute.png)
-![DNS ](images/step7-dns.png)
-![Nmap](images/step7-nmap.png)
+![Ip address-route-gateway](wk1/step7-iproute.png)
+![DNS ](wk1/step7-dns.png)
+![Nmap](wk1/step7-nmap.png)
 
 
 
@@ -130,7 +130,7 @@ nmap
 
 **Screenshot:**
 
-![Snapshot](images/step7-snapshot.png)
+![Snapshot](wk1/step7-snapshot.png)
 
 ## 7. Test Results
 
@@ -145,7 +145,6 @@ nmap
 
 **Overall result:** Completed. All tests passed.
 
-## 8. Problems I Faced
 
 ## 8. Problems I Faced
 
@@ -166,7 +165,7 @@ nmap
 
 **Screenshot:**
 
-![Problem 1](images/challenge1.png)
+![Problem 1](wk1/challenge1.png)
 
 ## 9. What I Learned
 
